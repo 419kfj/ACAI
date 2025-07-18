@@ -15,6 +15,11 @@ A table data with 10 rows and 6 cols:
 }
 \source{
 『対応分析入門』より抜粋
+
+\code{
+path <- system.file("extdata", "part2-chap2-alt.pdf", package = "ACAI")
+browseURL(path)
+}
 }
 \usage{
 data(tbl1_1)

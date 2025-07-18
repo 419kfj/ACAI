@@ -15,6 +15,12 @@
 #'   \item{列 職種}{現業, Low非現業, High非現業, 農民, 学生, 退職者}
 #' }
 #' @source 『対応分析入門』より抜粋
+#'
+#' \code{
+#' path <- system.file("extdata", "part2-chap2-alt.pdf", package = "ACAI")
+#' browseURL(path)
+#' }
+#'
 #' @examples
 #' # データの表示
 #' tbl1_1
