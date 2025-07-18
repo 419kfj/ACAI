@@ -10,7 +10,7 @@ A table data with 32 rows and 4 cols､ :
 \describe{
   \item{dim1:飲酒頻度}{ "M23","MS","MTW","never","OM","OW"}
   \item{dim2: 年齢}{"A16.25","A26.35","A36.45","A46.55","A56.66","A67.100"}
-  \item{dim3: 性別 }
+  \item{dim3: 性別 }{男性,女性}
   }
 }
 \source{

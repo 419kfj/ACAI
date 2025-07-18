@@ -18,6 +18,7 @@ A table data with 10 rows and 6 cols:
 
 \code{
 path <- system.file("extdata", "part2-chap2-alt.pdf", package = "ACAI")
+
 browseURL(path)
 }
 }

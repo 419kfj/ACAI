@@ -18,6 +18,7 @@
 #'
 #' \code{
 #' path <- system.file("extdata", "part2-chap2-alt.pdf", package = "ACAI")
+#'
 #' browseURL(path)
 #' }
 #'
